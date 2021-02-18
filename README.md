@@ -1,4 +1,4 @@
-# Powershell scripts
+# Small Powershell scripts
 
 ---
 
